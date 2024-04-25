@@ -18,7 +18,7 @@ async function compileScript() {
     }
     console.log('Compilation success!!!')
     
-    const hexArtifact = `build/main.compiled.json`;
+    const hexArtifact = 'build/main.compiled.json';
 
     fs.writeFileSync(
         hexArtifact,
