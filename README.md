@@ -1,4 +1,5 @@
 # ton-func-compiler 
 
 
-Compiler for TON smart contracts in FunC
+Compiler for TON smart contracts for FunC programming language
+
